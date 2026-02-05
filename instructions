@@ -14,9 +14,10 @@ https://www.youtube.com/watch?v=3FKsdbjzBcc watch this video about ssh keys.
 For networking principals https://www.youtube.com/watch?v=bj-Yfakjllc&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi
 
 i recommend using WSL 
+
 to do this you will need to enable vt-x and vt-d in bios
 look up how to do this for your motherboard. it can be hard
 https://learn.microsoft.com/en-us/windows/wsl/install
 wsl.exe --install debian
-
+(Alternative over windows powershell: install ssh on ws psh tuto search...) 
 
