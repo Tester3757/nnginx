@@ -1,0 +1,22 @@
+git för att starta en github repo, follow the instructions in the hj repo that we made.
+to continue on an old repo clone it 
+
+to clone the repo you need to do git clone then the ssh url.
+
+
+it will error out if you dont have an ssh key made. to get one you will need to do 4 steps
+1 install ssh
+2 run the ssh-keygen command
+3 navigate to your profile -> settings -> ssh & gpg keys
+then add the id_ed25519.pup key into the text field
+https://www.youtube.com/watch?v=3FKsdbjzBcc watch this video about ssh keys. 
+
+For networking principals https://www.youtube.com/watch?v=bj-Yfakjllc&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi
+
+i recommend using WSL 
+to do this you will need to enable vt-x and vt-d in bios
+look up how to do this for your motherboard. it can be hard
+https://learn.microsoft.com/en-us/windows/wsl/install
+wsl.exe --install debian
+
+
